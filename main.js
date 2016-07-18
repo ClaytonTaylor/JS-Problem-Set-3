@@ -17,6 +17,8 @@ palindrome();
 
 // #2
 
+/*
+
 function dashInsert(num) { 
 
 var prev='', 
